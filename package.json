@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/red-cup-engineering/2026-08-08-web-gui-services-section.git"
+    "url": "git+https://github.com/red-cup-engineering/2026-08-08-web-gui-engineering-services-section.git"
   },
   "publishConfig": {
     "access": "public",
